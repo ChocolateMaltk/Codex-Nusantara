@@ -27,6 +27,8 @@ Referensi untuk membuat website ini, berisi tentang link-link pembelajaran yang 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Some Next.js data filler
+
 ## Getting Started
 
 First, run the development server:
