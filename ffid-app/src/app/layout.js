@@ -1,18 +1,18 @@
 import Head from "next/head";
 import About from "../../pages/about";
-import Flora from "../../pages/Flora";
-import Fauna from "../../pages/Fauna";
-import Daerah from "../../pages/Daerah";
-import Home from "./page";
+import Flora from "../../pages/Content Pages/Flora";
+import Fauna from "../../pages/ Content Pages/Fauna";
+import Daerah from "../../pages/Content Pages/Daerah";
+import Home from "../../pages/page";
+import LandingPage from "../../pages/LandingPage";
 
 export default function Layout({ children }) {
   return (
     <>
       <Head>
-        <title>My Website</title>
+        <title>FlorFaunID</title>
       </Head>
-      <About></About>
-      <Home></Home>
+      <LandingPage></LandingPage>
     </>
   );
 }
