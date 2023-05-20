@@ -1,20 +1,21 @@
 # FlorFaunID
 
 FlorFaunID adalah website di mana user akan diperlihatkan ilustrasi dan informasi tentang flora dan fauna yang ada di Indonesia.
-Secara UI website tersebut akan menggunakan UI yang mirip seperti buku, dengan inspirasi dari wikipedia dan wiki tentang berbagai macam topik dan hal.
+Secara UI website tersebut akan menggunakan UI yang mirip seperti blogspot, dengan inspirasi dari wikipedia dan wiki tentang berbagai macam topik dan hal.
 
 ## Untuk project files terdapat pada folder/directory ffid-app.
 
 ## To-Do:
-> 1. Membuat halaman artikel berbagai macam fauna
-> 2. NavBar yang berfungsi agar bisa navigasi antar laman
-> 3. About Us dan Home Page diberi layout dan styling yang rapih dan jelas.
+> 1. Membuat halaman artikel berbagai macam fauna (fifty fifty done)
+> 2. NavBar yang berfungsi agar bisa navigasi antar laman (tambahin dikit lagi)
+> 3. About Us dan Home Page diberi layout dan styling yang rapih dan jelas. (tambahin dikit lagi)
+> 4. Search & Sort Function untuk mencari halaman
 
 ## Fitur, Progress dan Batasan
 
-### Estimasi Progres: **10%**
+### Estimasi Progres: **25%**
 
-#### Highlight Progress: Homepage yang berfungsi :v
+#### Highlight Progress: Homepage yang berfungsi, dynamic SSG article pages. good shit.
 
 ### Fitur
 
