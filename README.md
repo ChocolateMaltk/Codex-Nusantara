@@ -3,7 +3,7 @@
 FlorFaunID adalah website di mana user akan diperlihatkan ilustrasi dan informasi tentang flora dan fauna yang ada di Indonesia.
 Secara UI website tersebut akan menggunakan UI yang mirip seperti blogspot, dengan inspirasi dari wikipedia dan wiki tentang berbagai macam topik dan hal.
 
-## Untuk project files terdapat pada folder/directory ffid-app.
+## Untuk project files terdapat pada folder/directory ffid-app. Projek ini menggunakan fitur App Router dari Next.js, jadi untuk setiap halaman terdapat sebagai subdirektori di direktori App masing-masing dengan 'page.tsx' sebagai routernya
 
 ## To-Do:
 > 1. Membuat halaman artikel berbagai macam fauna (fifty fifty done)
