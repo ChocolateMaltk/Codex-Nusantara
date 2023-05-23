@@ -12,10 +12,10 @@ export default function Navbar() {
                     <Link className="text-white/80 hover:text-white no-underline" href="/about">
                         About Us
                     </Link>
-                    <Link className="text-white/90 hover:text-white" href="/">
+                    <Link className="text-white/90 hover:text-white" href="/faunaindex">
                         <FaDog />
                     </Link>
-                    <Link className="text-white/90 hover:text-white" href="/">
+                    <Link className="text-white/90 hover:text-white" href="/floraindex">
                         <FaTree />
                     </Link>
                 </div>
