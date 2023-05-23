@@ -9,7 +9,7 @@ export default function Navbar() {
                     <Link href="/" className="text-white/90 no-underline hover:text-white">Home</Link>
                 </h1>
                 <div className="flex flex-row justify-center sm:justify-evenlyy align-middle gap-4 text-white text-4xl lg:text-4xl">
-                    <Link className="text-white/80 hover:text-white no-underline" href="/">
+                    <Link className="text-white/80 hover:text-white no-underline" href="/about">
                         About Us
                     </Link>
                     <Link className="text-white/90 hover:text-white" href="/">
