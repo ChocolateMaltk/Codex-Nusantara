@@ -7,9 +7,9 @@ Secara UI website tersebut akan menggunakan UI yang mirip seperti blogspot, deng
 
 ## To-Do:
 > 1. Membuat halaman artikel berbagai macam fauna (struktur data setiap artikel dirombak ulang)
-> 2. NavBar yang berfungsi agar bisa navigasi antar laman (tinggal tambahin search)
+> ~~ 2. NavBar yang berfungsi agar bisa navigasi antar laman (tinggal tambahin search) ~~
 > 3. About Us dan Home Page diberi layout dan styling yang rapih dan jelas. (tambahin dikit lagi)
-> 4. Search & Sort Function untuk mencari halaman.
+> 4. Cardview untuk index flora dan fauna
 
 ## Fitur, Progress dan Batasan
 
