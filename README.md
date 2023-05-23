@@ -13,9 +13,9 @@ Secara UI website tersebut akan menggunakan UI yang mirip seperti blogspot, deng
 
 ## Fitur, Progress dan Batasan
 
-### Estimasi Progres: **35%**
+### Estimasi Progres: **55%**
 
-#### Highlight Progress: Homepage dan navbar berfungsi, page routing dan hyperlink berfungsi
+#### Highlight Progress: Nambahin artikel-artikel berbagai macam-macam hewan (50% done)
 
 ### Fitur
 
