@@ -11,7 +11,7 @@ export default function Home() {
       <h2 className="mt-12 mb-12 text-2xl text-center dark:text-white">Indonesia merupakan negara kepulauan yang memiliki beraneka ragam makhluk hidup.
       <br />Letak geografis Indonesia yang berada di antara benua Asia dan Australia, <br/> menyebabkan negara ini memiliki flora dan fauna yang khas.</h2>
       <div className="flex items-center justify-center">
-        <h3 className="mt-12 text-3xl text-center dark:text-white">Tahukah Anda? Di tengah Indonesia terdapat Garis Wallacea!</h3>
+        <h3 className="mt-12 text-3xl text-center dark:text-white">Tahukah Anda? Persebaran Flora dan Fauna Indonesia <br/>dipisah oleh Garis Wallacea dan Garis Weber?</h3>
       </div>
         <div>
         <WallaceaDropdown />

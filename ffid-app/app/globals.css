@@ -10,3 +10,20 @@ body {
     background-size: auto 100vh;
   }
   
+  .navbarffid {
+    background: linear-gradient(-45deg, #1e293b, #23a6d5, #23d5ab, #ffec00);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+  }
+  
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
