@@ -26,8 +26,6 @@ const WallaceaDropdown = () => {
             <Image
               src="/garisindo.png"
               alt="Garis Wallacea di Indonesia."
-              layout="responsive"
-              objectFit="contain"
               width={512}
               height={512}
             />
