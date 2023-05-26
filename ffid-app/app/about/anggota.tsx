@@ -1,7 +1,13 @@
 import React from 'react';
 import Image from 'next/image';
 
-const AnggotaCard = ({ name, nim, imgURL }) => {
+interface AnggotaCardProps {
+  name: string;
+  nim: string;
+  imgURL: string;
+}
+
+const AnggotaCard = ({ name, nim, imgURL }: AnggotaCardProps) => {
   return (
     <div className="bg-gray-500 rounded-lg shadow-md p-4">
       <Image className="w-20 h-20 rounded-full mx-auto mb-4" src={imgURL} alt={name} width={512} height={512} />
