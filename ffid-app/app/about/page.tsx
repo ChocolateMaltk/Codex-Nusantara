@@ -5,17 +5,17 @@ const anggota = [
   {
     name: "Achmad Ayubi Fario",
     nim: "00000053319",
-    imgURL: "./gambaranggota/Achmad.jpeg",
+    imgURL: "/gambaranggota/Achmad.jpeg",
   },
   {
     name: "Eduardus Farrel Tirtawinata",
     nim: "00000069931",
-    imgURL: "./gambaranggota/Eduardus.jpg",
+    imgURL: "/gambaranggota/Eduardus.jpg",
   },
   {
     name: "Farrel Ramada Alladines",
     nim: "00000069400",
-    imgURL: "./gambaranggota/FarrelA.jpg",
+    imgURL: "/gambaranggota/FarrelA.jpg",
   },
   {
     name: "Malik Bazil Rabbani",
