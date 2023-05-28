@@ -15,19 +15,20 @@ const WallaceaDropdown = () => {
         className="mt-4 mb-4 text-3xl text-center text-yellow-400 bg-transparent border border-yellow-400 hover:bg-yellow-400 hover:text-white px-4 py-2 rounded focus:outline-none md:w-1/2 lg:w-1/3 xl:w-1/4"
         onClick={toggleContent}
       >
-        Tapi Garis Wallacea itu apa sih sebenarnya?
+        Tapi Garis Wallacea dan Weber itu apa sebenarnya?
       </button>
 
       <div className={`transition-all duration-300 ease-in-out overflow-hidden ${
         isContentVisible ? 'h-auto' : 'h-0'
       }`}>
         <div className="w-full md:max-w-lg mt-4 px-3 py-3 bg-emerald-800 text-white">
-          <div className="aspect-w-1 aspect-h-1 max-w-full">
+          <div className="aspect-w-1 aspect-h-1 max-w-full rounded-md">
             <Image
               src="/garisindo.png"
               alt="Garis Wallacea di Indonesia."
               width={512}
               height={512}
+              className="rounded-md"
             />
           </div>
           <p className="mt-4 mb-4 text-sm">
