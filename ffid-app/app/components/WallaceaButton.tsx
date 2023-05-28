@@ -31,14 +31,19 @@ const WallaceaDropdown = () => {
             />
           </div>
           <p className="mt-4 mb-4 text-sm">
-            <b>Garis Wallacea</b> merupakan sebuah garis imajiner yang memotong di pertengahan Indonesia.
-            <br /> Garis ini menyebabkan persebaran Flora dan Fauna di Indonesia menjadi dua sisi, yaitu,
-            <br /> Asiatis dan Australis.
+            <b>Garis Wallacea</b> merupakan sebuah garis imajiner yang memotong di pertengahan Indonesia. Garis ini terletak diantara Pulau Jawa dan Pulau Sulawesi seperti dilihat diatas.
+            <br />
+            <br /><b>Garis Weber</b> terletak di sebelah kanan Pulau Sulawesi dan sebelum Kepulauan Maluku.
+            <br /><br /> Dua garis ini menyebabkan persebaran Flora dan Fauna di Indonesia menjadi tiga macam, yaitu,
+            <br /> Asiatis, Indonesia Tengah dan Australis.
             <br />
             <br />
-            Asiatis yang berarti flora dan fauna memiliki kerabat atau mirip dengan flora dan fauna yang berhabitat di Asia.
-            <br />
-            Sedangkan Australis yang berarti flora dan fauna memiliki kerabat atau mirip dengan flora dan fauna yang berhabitat di Australia.
+            {'\u23FA'} Asiatis yang berarti flora dan fauna memiliki kerabat atau mirip dengan flora dan fauna yang berhabitat di Asia.
+            <br /> <br />
+            {'\u23FA'} Tepat di antara Garis Wallacea dan Weber terdapat Flora dan Fauna Indonesia Tengah. Makhluk Hidup di bagian tengah ini unik, karena kebanyakan dari mereka adalah species baru atau mengalami
+            <i>evolusi divergen</i> dibandingkan Flora dan Fauna Asiatis dan Australis.
+            <br /> <br />
+            {'\u23FA'} Sedangkan Australis yang berarti flora dan fauna memiliki kerabat atau mirip dengan flora dan fauna yang berhabitat di Australia.
           </p>
         </div>
       </div>

@@ -7,22 +7,22 @@ const items = [
   {
     id: "1",
     imageUrl: "/KomodoCarousel.jpg",
-    caption: "Image 1",
+    caption: "Komodo",
   },
   {
     id: "2",
-    imageUrl: "/KomodoCarousel.jpg",
-    caption: "Image 2",
+    imageUrl: "/c_item3.jpg",
+    caption: "Titan Arum",
   },
   {
     id: "3",
-    imageUrl: "/KomodoCarousel.jpg",
-    caption: "Image 3",
+    imageUrl: "/c_item2.jpg",
+    caption: "Kasuari",
   },
   {
     id: "4",
-    imageUrl: "/KomodoCarousel.jpg",
-    caption: "Image 4",
+    imageUrl: "/c_item4.jpg",
+    caption: "Rafflessia Arnoldi",
   },
 ];
 
