@@ -50,7 +50,7 @@
   },
   {
       "name": "Buaya Air Asin",
-      "flavorText": "Buaya Air Asin adalah Buaya paling besar di dunia. Dan bisa hidup di air asin.",
+      "flavorText": "Buaya Air Asin adalah Buaya paling besar di dunia. Dan reptil ini bisa hidup di air asin.",
       "imageUrl": "/IndexImg/Fauna/saltwater-croc.jpg",
       "btnURL": "./posts/saltwater-crocodile"
   },
@@ -77,5 +77,17 @@
     "flavorText": "Ikan Tapah adalah lele berukuran besar yang bisa ditemukan di perairan Pulau Kalimantan",
     "imageUrl":"/IndexImg/Fauna/wallago-attu.jpg",
     "btnURL": "./posts/wallago-attu"
+  },
+  {
+    "name": "Orangutan Sumatera",
+    "flavorText": "Orangutan Sumatera adalah primata besar yang bisa ditemukan di Sumatera",
+    "imageUrl": "/IndexImg/Fauna/orangsmt.jpg",
+    "btnURL": "./posts/sumatran-orangutan"
+  },
+  {
+    "name": "Hiu Paus",
+    "flavorText": "Hiu Paus adalah species ikan terbesar yang masih hidup di Bumi.",
+    "imageUrl": "/IndexImg/Fauna/whaleshark.jpg",
+    "btnURL": "./posts/whale-shark"
   }
 ]

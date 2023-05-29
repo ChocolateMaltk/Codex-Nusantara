@@ -10,3 +10,5 @@ Orangutan Sumatera adalah primata besar yang bisa ditemukan di Sumatera.
 Dia juga memiliki sepupu di Pulau Kalimantan.
 Perbedaanya dengan kerabatnya di Kalimantan adalah rambut yang berwarna
 coklat ke jingga dan juga rambut yang lebih tebal.
+
+Orangutan hidup dalam berkelompok dan bisa dibilang mereka memiliki rasa kekerabatan yang erat.
