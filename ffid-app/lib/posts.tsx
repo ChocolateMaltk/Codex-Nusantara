@@ -11,8 +11,8 @@ export interface Article {
   id: string;
   title: string;
   date: string;
-  flora: string;
-  fauna: string;
+  flora: boolean;
+  fauna: boolean;
   origin: string;
   vidLink: string;
 }
