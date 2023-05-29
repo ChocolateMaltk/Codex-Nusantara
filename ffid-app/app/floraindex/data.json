@@ -59,5 +59,35 @@
     "flavorText": "Bunga Putih yang cocok dijadikan hiasan.",
     "imageUrl": "/IndexImg/Flora/fl_sedap-malam.jpg",
     "btnURL": "./posts/sedap-malam"
+  },
+  {
+    "name": "Cempaka Wangi",
+    "flavorText": "Bunga putih yang wangi, maskot Provinsi Aceh.",
+    "imageUrl": "/IndexImg/Flora/fl_bungaJeumpa.jpg",
+    "btnURL": "./posts/cempaka-wangi"
+  },
+  {
+    "name": "Pohon Jati",
+    "flavorText": "Flora ikonik yang sering digunakan sebagai simbol, juga sumber kayu yang bagus.",
+    "imageUrl": "/IndexImg/Flora/fl_jati.jpg",
+    "btnURL": "./posts/jati"
+  },
+  {
+    "name": "Ebony Sulawesi",
+    "flavorText": "Kayu berwarana hitam khas Sulawesi.",
+    "imageUrl": "/IndexImg/Flora/fl_celebesEbony.jpg",
+    "btnURL": "./posts/ebony"
+  },
+  {
+    "name": "Peria",
+    "flavorText": "Flora yang memiliki buah yang pahit.",
+    "imageUrl": "/IndexImg/Flora/fl_peria.jpg",
+    "btnURL": "/posts/peria"
+  },
+  {
+    "name": "Cabai Rawit",
+    "flavorText": "Flora berkeluarga Nightshade yang memiliki cita rasa pedas.",
+    "imageUrl": "/IndexImg/Flora/fl_cabe.jpg",
+    "btnURL": "/posts/cabai-rawit"
   }
 ]
