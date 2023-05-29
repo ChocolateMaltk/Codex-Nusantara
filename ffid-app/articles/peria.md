@@ -1,5 +1,5 @@
 ---
-title: 'Cempaka Wangi'
+title: 'Peria'
 date: '2023-05-20'
 flora: 1
 fauna: 0
