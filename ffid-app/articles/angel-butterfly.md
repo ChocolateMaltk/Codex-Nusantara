@@ -4,6 +4,7 @@ date: '2023-05-20'
 flora: 0
 fauna: 1
 origin: 'Sulawesi Tengah'
+vidLink: 'https://www.youtube.com/watch?v=pgtmlVqCKxc&pp=ygURbW9uYXJjaCBidXR0ZXJmbHk%3D'
 ---
 
 **Kupu-Kupu Bidadari** merupakan serangga yang bisa ditemukan di Pulau Sulawesi. Kupu-kupu ini memiliki variasi warna yang beragam, dari Biru, Hitam, Merah dan Coklat. Corak pada kupu-kupu ini juga bermacam-macam, ada yang mirip seperti mata, ada yang memiliki warna gradien yang vibran dan ada juga yang motifnya mirip seperti galaksi di luar angkasa.

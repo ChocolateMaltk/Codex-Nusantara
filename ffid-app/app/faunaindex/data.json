@@ -1,18 +1,81 @@
 [
-    {
-      "name": "Pikachu",
-      "flavorText": "Pikachu is an Electric-type Pokémon.",
-      "imageUrl": "https://example.com/pikachu.jpg"
-    },
-    {
-      "name": "Charizard",
-      "flavorText": "Charizard is a Fire- and Flying-type Pokémon.",
-      "imageUrl": "https://example.com/charizard.jpg"
-    },
-    {
-      "name": "Bulbasaur",
-      "flavorText": "Bulbasaur is a Grass- and Poison-type Pokémon.",
-      "imageUrl": "https://example.com/bulbasaur.jpg"
-    }
-  ]
-  
+  {
+      "name": "Komodo",
+      "flavorText": "Komodo adalah semacam biawak besar yang ditemukan di Pulau Komodo.",
+      "imageUrl": "/IndexImg/Fauna/komodo.jpg",
+      "btnURL": "./posts/komodo-dragon"
+      
+  },
+  {
+      "name": "Kupu-Kupu Bidadari",
+      "flavorText": "Kupu-kupu ini memiliki motif yang indah sehingga disebut sebagai bidadari.",
+      "imageUrl": "/IndexImg/Fauna/kk-bidadari.jpg",
+      "btnURL": "./posts/angel-butterfly"
+  },
+  {
+      "name": "Bekantan",
+      "flavorText": "Jenis monyet yang memiliki hidung yang berbentuk seperti terong.",
+      "imageUrl": "/IndexImg/Fauna/Bekantan.jpg",
+      "btnURL": "./posts/bekantan"
+  },
+  {
+      "name": "Kasuari",
+      "flavorText": "Kasuari adalah burung berukuran besar yang mempunyai kaki yang kuat.",
+      "imageUrl": "/IndexImg/Fauna/cassowary.jpg",
+      "btnURL": "./posts/cassowary"
+  },
+  {
+      "name": "Cendrawasih",
+      "flavorText": "Burung Cendrawasih adalah burung yang memiliki bulu yang terang dan berwarna cerah pada ekornya.",
+      "imageUrl": "/IndexImg/Fauna/Cendrawasih.jpg",
+      "btnURL": "./posts/cendrawasih"
+  },
+  {
+      "name": "Tapir Malaya",
+      "flavorText": "Tapir adalah sejenis mamalia berbelalai namun tidak bergading dan berbadan kecil.",
+      "imageUrl": "/IndexImg/Fauna/tapirmalaya.jpg",
+      "btnURL": "./posts/malayan-tapir"
+  },
+  {
+      "name": "Maleo",
+      "flavorText": "Burung Maleo adalah burung yang memiliki mahkota, dengan tubuh hitam dan perut yang putih.",
+      "imageUrl": "/IndexImg/Fauna/maleo.jpg",
+      "btnURL": "./posts/maleo"
+  },
+  {
+      "name": "Pesut Mahakam",
+      "flavorText": "Pesut Mahakam adalah lumba-lumba air tawar yang bisa ditemukan di perairan Sungai Mahakam.",
+      "imageUrl": "/IndexImg/Fauna/pesutmahakam.jpg",
+      "btnURL": "./posts/pesutmahakam"
+  },
+  {
+      "name": "Buaya Air Asin",
+      "flavorText": "Buaya Air Asin adalah Buaya paling besar di dunia. Dan bisa hidup di air asin.",
+      "imageUrl": "/IndexImg/Fauna/saltwater-croc.jpg",
+      "btnURL": "./posts/saltwater-crocodile"
+  },
+  {
+    "name": "Gajah Sumatera",
+    "flavorText": "Gajah Sumatera adalah Gajah yang endemik untuk Pulau Sumatera.",
+    "imageUrl": "/IndexImg/Fauna/gajah-sumatera.jpg",
+    "btnURL": "./posts/sumatran-elephant"
+  },
+  {
+    "name": "Badak Sumatera",
+    "flavorText":"Badak Sumatera adalah Badak yang endemik untuk Pulau Sumatera.",
+    "imageUrl": "/IndexImg/Fauna/badaksumatera.jpg",
+    "btnURL": "./posts/sumatran-rhinoceros"
+  },
+  {
+    "name": "Harimau Sumatera",
+    "flavorText": "Harimau Sumatera adalah Harimau yang endemik untuk Pulau Sumatera.",
+    "imageUrl":"/IndexImg/Fauna/harimau-sumatera.jpg",
+    "btnURL": "./posts/sumatran-tiger"
+  },
+  {
+    "name": "Ikan Tapah",
+    "flavorText": "Ikan Tapah adalah lele berukuran besar yang bisa ditemukan di perairan Pulau Kalimantan",
+    "imageUrl":"/IndexImg/Fauna/wallago-attu.jpg",
+    "btnURL": "./posts/wallago-attu"
+  }
+]
