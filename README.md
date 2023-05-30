@@ -6,25 +6,23 @@ Secara UI website tersebut akan menggunakan UI yang mirip seperti blogspot, deng
 ## Untuk project files terdapat pada folder/directory ffid-app. Projek ini menggunakan fitur App Router dari Next.js, jadi untuk setiap halaman terdapat sebagai subdirektori di direktori App masing-masing dengan 'page.tsx' sebagai routernya
 
 ## To-Do:
-> 1. Membuat halaman artikel berbagai macam fauna. (struktur data setiap artikel dirombak ulang)
-> 2. About Us dan Home Page diberi layout dan styling yang rapih dan jelas. (tambahin dikit lagi)
-> 3. Cardview untuk index flora dan fauna.
+> The Project is done. _for now._
 
 ## Fitur, Progress dan Batasan
 
-### Estimasi Progres: **55%**
+### Estimasi Progres: **100%**
 
-#### Highlight Progress: Nambahin artikel-artikel berbagai macam-macam hewan (50% done)
+#### Highlight Progress: Pengunjung CodeExpo cukup tertarik dengan hasil akhir projek ini.
 
 ### Fitur
 
 > 1. Menggunakan React.js sebagai framework. Packaged with Next.js
 > 2. Menggunakan TailwindCSS untuk styling
-> 3. Menggunakan API untuk mendisplay informasi.
+> 3. Menggunakan JSON (Local) untuk mendisplay informasi.
 
 ### Batasan
 
-> 1. _To be added in a future release_
+> 1. Tidak menggunakan API (karena batasan waktu dan tidak ada yang cocok untuk database hewan.)
 
 ## Wiki dan FAQ
 
@@ -35,5 +33,6 @@ Untuk pertanyaan seputar website akan berada pada bagian ini.
 ## Referensi
 
 Referensi untuk membuat website ini, berisi tentang link-link pembelajaran yang berguna.
+_will add soon._
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
