@@ -1,7 +1,6 @@
 import getFormattedDate from "@/lib/getFormattedDate";
 import { getPostData, getSortedPostsData } from "@/lib/posts";
 import { notFound } from "next/navigation";
-import Link from "next/link";
 import Head from "next/head";
 
 export function generateStaticParams() {
@@ -37,29 +36,27 @@ export default async function Post({ params }: { params: { postId: string } }) {
     return notFound();
   }
 
-  const { title, date, contentHtml, vidLink } = await getPostData(postId);
-
+  const { title, date, contentHtml, flora, fauna, origin } = await getPostData(postId);
   const pubDate = getFormattedDate(date);
+  const category = fauna ? "Fauna" : "Flora";
 
-  return (
-    <>
-      <Head>
-        <title>{title} - Flora Fauna Indonesia</title>
-      </Head>
+return (
+  <>
+    <Head>
+      <title>{title} - Flora Fauna Indonesia</title>
+    </Head>
+    <div className="bg-gray-200 border-2 border-black rounded-md p-3 m-4">
       <main className="px-6 prose-xl prose-slate dark:prose-invert mx-auto">
-        <h1 className="text-3xl mt-4 mb-0 dark:text-white">{title}</h1>
-        <p className="mt-0 dark:text-white">{pubDate}</p>
-        <div className="flex aspect-w-16 aspect-h-9">
-        </div>
-        <article className="dark:text-white">
+        <h1 className="text-3xl mt-4 mb-0 text-black">{title}</h1>
+        {flora !== null && (
+          <p className="mt-0 text-black">{category} dari {origin}</p>
+        )}
+        <article className="text-black">
           <section dangerouslySetInnerHTML={{ __html: contentHtml }} />
-          <p className="dark:text-white">
-            <b>
-              <Link href="/">Back to home</Link>
-            </b>
-          </p>
         </article>
       </main>
-    </>
-  );
-}
+    </div>
+  </>
+);
+
+        }
