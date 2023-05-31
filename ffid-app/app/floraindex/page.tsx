@@ -11,7 +11,7 @@ export default function floraIndex() {
   
     return (
       <div className="mt-6 text-center text-4xl text-black">
-        <h1 className="text-3xl font-bold mb-6 text-black">Fauna Index</h1>
+        <h1 className="text-3xl font-bold mb-6 text-black">Flora Index</h1>
         <div className="flex flex-wrap justify-center gap-8">
           {sortedData.map((item) => (
             <div key={item.name} className="max-w-xs bg-yellow-200/70 rounded-lg p-4 shadow-lg">

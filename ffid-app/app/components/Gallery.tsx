@@ -4,11 +4,14 @@ interface GalleryItem {
   id: string;
   imageUrl: string;
   caption: string;
+  clickURL: string;
 }
 
 interface GalleryProps {
   items: GalleryItem[];
 }
+
+
 
 const Gallery: React.FC<GalleryProps> = ({ items }) => {
   return (

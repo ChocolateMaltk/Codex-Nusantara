@@ -8,21 +8,25 @@ const items = [
     id: "1",
     imageUrl: "/KomodoCarousel.jpg",
     caption: "Komodo",
+    clickURL: "/pages/komodo-dragon"
   },
   {
     id: "2",
     imageUrl: "/c_item3.jpg",
     caption: "Titan Arum",
+    clickURL: "/pages/amorphophallus-titanium"
   },
   {
     id: "3",
     imageUrl: "/c_item2.jpg",
     caption: "Kasuari",
+    clickURL: "/pages/cassowary"
   },
   {
     id: "4",
     imageUrl: "/c_item4.jpg",
     caption: "Rafflessia Arnoldi",
+    clickURL: "/pages/rafflesia-arnoldii"
   },
 ];
 
