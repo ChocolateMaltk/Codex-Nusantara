@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from 'react';
 import Image from 'next/image';
+import Link from 'next/link';
 
 const WallaceaDropdown = () => {
   const [isContentVisible, setIsContentVisible] = useState(false);
@@ -31,7 +32,7 @@ const WallaceaDropdown = () => {
               className="rounded-md"
             />
           </div>
-          <p className="mt-4 mb-4 text-sm">
+          <p className="mt-4 mb-4 text-xl">
             <b>Garis Wallacea</b> merupakan sebuah garis imajiner yang memotong di pertengahan Indonesia. Garis ini terletak diantara Pulau Jawa dan Pulau Sulawesi seperti dilihat diatas.
             <br />
             <br /><b>Garis Weber</b> terletak di sebelah kanan Pulau Sulawesi dan sebelum Kepulauan Maluku.
@@ -46,6 +47,11 @@ const WallaceaDropdown = () => {
             <br /> <br />
             {'\u23FA'} Sedangkan Australis yang berarti flora dan fauna memiliki kerabat atau mirip dengan flora dan fauna yang berhabitat di Australia.
           </p>
+          <Link href="https://id.wikipedia.org/wiki/Garis_Wallace">
+          <p className='mt-4 mb-4 text-lg text-end text-sky-300'>
+            Baca lebih lanjut...
+          </p>
+          </Link>
         </div>
       </div>
     </div>
