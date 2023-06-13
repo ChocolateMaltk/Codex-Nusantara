@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Kupu-Kupu Bidadari",
+    "flavorText": "Kupu-kupu ini memiliki motif yang indah sehingga disebut sebagai bidadari.",
+    "imageUrl": "/IndexImg/Fauna/kk-bidadari.jpg",
+    "btnURL": "./posts/angel-butterfly"
+  },
+  {
+    "name": "Cendana",
+    "flavorText": "Flora yang bisa dijadikan sebagai penghasil kayu atau minyak.",
+    "imageUrl": "/IndexImg/Flora/fl_cendana.jpg",
+    "btnURL": "./posts/cendana"
+  },
+  {
+    "name": "Ebony Sulawesi",
+    "flavorText": "Kayu berwarana hitam khas Sulawesi.",
+    "imageUrl": "/IndexImg/Flora/fl_celebesEbony.jpg",
+    "btnURL": "./posts/ebony"
+  },
+  {
+    "name": "Komodo",
+    "flavorText": "Komodo adalah semacam biawak besar yang ditemukan di Pulau Komodo.",
+    "imageUrl": "/IndexImg/Fauna/komodo.jpg",
+    "btnURL": "./posts/komodo-dragon"
+  },
+  {
+    "name": "Maleo",
+    "flavorText": "Burung Maleo adalah burung yang memiliki mahkota, dengan tubuh hitam dan perut yang putih.",
+    "imageUrl": "/IndexImg/Fauna/maleo.jpg",
+    "btnURL": "./posts/maleo"
+  }
+]

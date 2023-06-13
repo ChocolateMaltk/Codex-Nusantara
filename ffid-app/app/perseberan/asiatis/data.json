@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Titan Arum",
+    "flavorText": "Bunga raksasa ini mengeluarkan bau yang tidak sedap seperti mayat yang membusuk.",
+    "imageUrl": "/IndexImg/Flora/fl_tArum.jpg",
+    "btnURL": "./posts/amophorphallus-titanium"
+  },
+  {
+    "name": "Bekantan",
+    "flavorText": "Jenis monyet yang memiliki hidung yang berbentuk seperti terong.",
+    "imageUrl": "/IndexImg/Fauna/Bekantan.jpg",
+    "btnURL": "./posts/bekantan"
+  },
+  {
+    "name": "Cempaka Wangi",
+    "flavorText": "Bunga putih yang wangi, maskot Provinsi Aceh.",
+    "imageUrl": "/IndexImg/Flora/fl_bungaJeumpa.jpg",
+    "btnURL": "./posts/cempaka-wangi"
+  },
+  {
+    "name": "Durian",
+    "flavorText": "Durian adalah flora yang memiliki buah berkulit yang berduri",
+    "imageUrl": "/IndexImg/Flora/fl_durian.jpg",
+    "btnURL": "./posts/duriantree"
+  },
+  {
+    "name": "Pohon Jati",
+    "flavorText": "Flora ikonik yang sering digunakan sebagai simbol, juga sumber kayu yang bagus.",
+    "imageUrl": "/IndexImg/Flora/fl_jati.jpg",
+    "btnURL": "./posts/jati"
+  },
+  {
+    "name": "Kenanga",
+    "flavorText": "Flora yang bisa dijadikan sebagai bahan makanan dan hiasan rumah.",
+    "imageUrl": "/IndexImg/Flora/fl_kenanga.jpg",
+    "btnURL": "./posts/kenanga"
+  },
+  {
+    "name": "Keruing",
+    "flavorText": "Pohon tinggi ini memiliki kayu yang kuat yang bisa dijadikan sebagai obat tradisional ataupun perabotan interior",
+    "imageUrl": "/IndexImg/Flora/fl_keruing.jpg",
+    "btnURL": "./posts/keruingtree"
+  },
+  {
+    "name": "Pohon Lontar",
+    "flavorText": "Pohon Palem tinggi ini bisa mencapai 15-30m.",
+    "imageUrl": "/IndexImg/Flora/fl_lontar.jpg",
+    "btnURL": "./posts/lontar"
+  },
+  {
+    "name": "Tapir Malaya",
+    "flavorText": "Tapir adalah sejenis mamalia berbelalai namun tidak bergading dan berbadan kecil.",
+    "imageUrl": "/IndexImg/Fauna/tapirmalaya.jpg",
+    "btnURL": "./posts/malayan-tapir"
+  },
+  {
+    "name": "Anggrek Bulan",
+    "flavorText": "Bungga Anggrek ini memiliki bermacam warna, dari warna putih sampai warna biru ke-unguan.",
+    "imageUrl": "/IndexImg/Flora/fl_anggrekBulan.jpg",
+    "btnURL": "./posts/moon-orchid"
+  },
+  {
+    "name": "Peria",
+    "flavorText": "Flora yang memiliki buah yang pahit.",
+    "imageUrl": "/IndexImg/Flora/fl_peria.jpg",
+    "btnURL": "/posts/peria"
+  },
+  {
+    "name": "Pesut Mahakam",
+    "flavorText": "Pesut Mahakam adalah lumba-lumba air tawar yang bisa ditemukan di perairan Sungai Mahakam.",
+    "imageUrl": "/IndexImg/Fauna/pesutmahakam.jpg",
+    "btnURL": "./posts/pesutmahakam"
+  },
+  {
+    "name": "Rafflesia Arnoldii",
+    "flavorText": "Bunga yang memiliki kelopak raksasa ini bisa ditemukan di hutan-hutan Sumatera. Flora ini juga mengeluarkan bau yang tidak sedap.",
+    "imageUrl": "/IndexImg/Flora/fl_rafflesia.jpg",
+    "btnURL": "./posts/rafflessia-arnoldii"
+  },
+  {
+    "name": "Pinang Merah",
+    "flavorText": "Tanaman Pinang yang memiliki batang merah.",
+    "imageUrl": "/IndexImg/Flora/fl_pinangMerah.jpg",
+    "btnURL": "./posts/red-palm"
+  },
+  {
+    "name": "Sedap Malam",
+    "flavorText": "Bunga Putih yang cocok dijadikan hiasan.",
+    "imageUrl": "/IndexImg/Flora/fl_sedap-malam.jpg",
+    "btnURL": "./posts/sedap-malam"
+  },
+  {
+    "name": "Gajah Sumatera",
+    "flavorText": "Gajah Sumatera adalah Gajah yang endemik untuk Pulau Sumatera.",
+    "imageUrl": "/IndexImg/Fauna/gajah-sumatera.jpg",
+    "btnURL": "./posts/sumatran-elephant"
+  },
+  {
+    "name": "Badak Sumatera",
+    "flavorText": "Badak Sumatera adalah Badak yang endemik untuk Pulau Sumatera.",
+    "imageUrl": "/IndexImg/Fauna/badaksumatera.jpg",
+    "btnURL": "./posts/sumatran-rhinoceros"
+  },
+  {
+    "name": "Harimau Sumatera",
+    "flavorText": "Harimau Sumatera adalah Harimau yang endemik untuk Pulau Sumatera.",
+    "imageUrl": "/IndexImg/Fauna/harimau-sumatera.jpg",
+    "btnURL": "./posts/sumatran-tiger"
+  },
+  {
+    "name": "Orangutan Sumatera",
+    "flavorText": "Orangutan Sumatera adalah primata besar yang bisa ditemukan di Sumatera",
+    "imageUrl": "/IndexImg/Fauna/orangsmt.jpg",
+    "btnURL": "./posts/sumatran-orangutan"
+  },
+  {
+    "name": "Ikan Tapah",
+    "flavorText": "Ikan Tapah adalah lele berukuran besar yang bisa ditemukan di perairan Pulau Kalimantan",
+    "imageUrl": "/IndexImg/Fauna/wallago-attu.jpg",
+    "btnURL": "./posts/wallago-attu"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Cendrawasih",
+    "flavorText": "Burung Cendrawasih adalah burung yang memiliki bulu yang terang dan berwarna cerah pada ekornya.",
+    "imageUrl": "/IndexImg/Fauna/Cendrawasih.jpg",
+    "btnURL": "./posts/cendrawasih"
+  },
+  {
+    "name": "Kasuari",
+    "flavorText": "Kasuari adalah burung berukuran besar yang mempunyai kaki yang kuat.",
+    "imageUrl": "/IndexImg/Fauna/cassowary.jpg",
+    "btnURL": "./posts/cassowary"
+  },
+  {
+    "name": "Buaya Air Asin",
+    "flavorText": "Buaya Air Asin adalah Buaya paling besar di dunia. Dan reptil ini bisa hidup di air asin.",
+    "imageUrl": "/IndexImg/Fauna/saltwater-croc.jpg",
+    "btnURL": "./posts/saltwater-crocodile"
+  },
+  {
+      "name": "Hiu Paus",
+      "flavorText": "Hiu Paus adalah species ikan terbesar yang masih hidup di Bumi.",
+      "imageUrl": "/IndexImg/Fauna/whaleshark.jpg",
+      "btnURL": "./posts/whale-shark"
+  }
+]
