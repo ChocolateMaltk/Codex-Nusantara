@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { FaDog, FaTree} from "react-icons/fa"
+import { FaArrowAltCircleRight, FaBookOpen, FaDog, FaTree} from "react-icons/fa"
 
 export default function Navbar() {
     return (
@@ -9,6 +9,9 @@ export default function Navbar() {
                     <Link href="/" className="text-white/90 no-underline hover:text-white navbarhoverfx">Home</Link>
                 </h1>
                 <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-4xl lg:text-4xl">
+                    <Link className="text-white/75 hover:text-white" href="/perseberan">
+                        <FaBookOpen />
+                    </Link>
                     <Link className="text-white/75 hover:text-white" href="/faunaindex">
                         <FaDog />
                     </Link>

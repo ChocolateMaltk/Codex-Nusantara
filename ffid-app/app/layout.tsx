@@ -2,6 +2,7 @@ import './globals.css'
 import Navbar from './components/Navbar'
 import Posts from './components/Posts'
 import { Inter } from 'next/font/google'
+import BackToTopText from './components/BackToTopBtn'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -20,6 +21,7 @@ export default function RootLayout({
       <body>
         <Navbar />
         {children}
+        <BackToTopText />
         </body>
     </html>
   )

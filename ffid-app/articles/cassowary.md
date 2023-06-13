@@ -10,4 +10,4 @@ origin: 'Papua'
 
 Burung Kasuari menggunakan kakinya sebagai sistem pertahanan diri terhadap ancaman dan predator. Tendangan dari Burung Kasuari bisa melumpuhkan seseorang orang dewasa. Wajar saja, karena otot kaki burung kasuari harus kuat untuk menahan berat badan kasuari yang berat ke atas. Dan pada musim kawin, induk Kasuari akan sangat berjaga-jaga pada wilayahnya dan tidak ragu untuk menyerang manusia. Ini menyebabkan **Burung Kasuari** sebagai salah satu burung paling berbahaya di dunia.
 
-Dan jika kita amati, Burung Kasuari sekilas mirip dengan dinosaurus purba seperti _Velociraptor_, _Guanlong_ dan _Gigantoraptor_ di mana mereka memiliki kemiripan yaitu kaki yang kuat untuk berlari kencang. Selain itu, Kasuari memiliki suatu _crest_ yang merupakan peninggalan dari evolusi dari dinosaurus ke burung.
+Dan jika kita amati, Burung Kasuari sekilas mirip dengan dinosaurus purba seperti _Velociraptor_, _Guanlong_ dan _Gigantoraptor_ di mana mereka memiliki kemiripan yaitu kaki yang kuat untuk berlari kencang. Selain itu, Kasuari memiliki suatu _crest_ yang merupakan peninggalan evolusi dari dinosaurus ke burung.
